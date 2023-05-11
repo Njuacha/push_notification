@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "393574479492",
+    "project_id": "my-push-notification-njuacha",
+    "storage_bucket": "my-push-notification-njuacha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393574479492:android:779f13edc3f35bc4cc74d1",
+        "android_client_info": {
+          "package_name": "com.njuacha.push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393574479492-lu0p7lu5nv7i6repeiollc96j01v47p0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS85LoYZ8lQLycOgGQkrkYI9Ydg99gd34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393574479492-lu0p7lu5nv7i6repeiollc96j01v47p0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "393574479492-104r7d0ffpfhenho78pqsdq4ii7hrtae.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.njuacha.pushNotification"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
